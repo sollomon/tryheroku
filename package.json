@@ -1,0 +1,12 @@
+{
+  "name": "tryheroku",
+  "version": "1.0.0",
+  "description": "try heroku",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js",
+  },
+  "author": "sollomon",
+  "license": "ISC"
+}
